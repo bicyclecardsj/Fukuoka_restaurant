@@ -8,19 +8,21 @@ Google Maps에서 후쿠오카 음식점 리뷰를 수집하고, 한국어 자�
 
 ### Environment
 
-- Python
-- Jupyter Notebook
-- Chrome / ChromeDriver
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Google Chrome](https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.google.com/chrome/)
+[![ChromeDriver](https://img.shields.io/badge/ChromeDriver-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/chromedriver/)
 
 ### Framework & Libraries
 
-- **Streamlit**: 음식점 비교 대시보드 구성
-- **Selenium**: Google Maps 장소 및 리뷰 수집
-- **Pandas / NumPy**: 데이터 정제와 집계
-- **KoNLPy (Okt)**: 한국어 형태소 분석 및 토큰화
-- **TensorFlow / Keras**: CNN + Bidirectional GRU 감성 분석 모델
-- **Scikit-learn**: 데이터 분리, 교차검증 및 모델 평가
-
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![KoNLPy](https://img.shields.io/badge/KoNLPy-Okt-4B8BBE?style=for-the-badge)](https://konlpy.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
+[![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 ---
 
 ## 👥 프로젝트 목적
